@@ -1,15 +1,15 @@
 # Healthcare-Analytics-SQL-Tableau-
 
-📌 Project Overview
+📌 Project Overview : 
 This project focuses on analyzing healthcare data to extract meaningful insights related to patient demographics, hospital operations, billing, and medical conditions.
 Using SQL for data analysis and Tableau for visualization, the project transforms raw healthcare data into an interactive dashboard that supports data-driven decision-making.
 
-🎯 Objectives
-Analyze patient demographics and admission patterns
-Evaluate hospital stay duration across medical conditions
-Understand billing trends and insurance contributions
-Identify key performance indicators (KPIs) in healthcare operations
-Build an interactive dashboard for better data visualization
+🎯 Objectives:
+- Analyze patient demographics and admission patterns
+- Evaluate hospital stay duration across medical conditions
+- Understand billing trends and insurance contributions
+- Identify key performance indicators (KPIs) in healthcare operations
+- Build an interactive dashboard for better data visualization
 
 🛠️ Tools & Technologies
 - SQL (MySQL) – Data cleaning, transformation, and analysis
