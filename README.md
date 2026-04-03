@@ -22,14 +22,21 @@ Using SQL for data analysis and Tableau for visualization, the project transform
 - Readmission Cases: 5,508
 - Average Hospital Stay: 15.5 Days
 
-📈 Dashboard Features
+📈 Dashboard Features : 
 The Tableau dashboard includes:
+
 📌 Patient distribution by age group
+
 📌 Admission type breakdown (Emergency, Urgent, Elective)
+
 📌 Average hospital stay by medical condition
+
 📌 Billing analysis by insurance providers
+
 📌 Monthly admission trends
+
 📌 Doctor billing performance
+
 📌 Test result distribution
 
 🧠 SQL Analysis Performed
